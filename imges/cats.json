@@ -1,0 +1,266 @@
+[
+    {
+        "name": "Snowball",
+        "color": "Orange",
+        "eye_color": "Green",
+        "age": "adult",
+        "gender": "Female",
+        "image": "1.jpg"
+    },
+    {
+        "name": "Bella",
+        "color": "White",
+        "eye_color": "Blue",
+        "age": "kitten",
+        "gender": "Female",
+        "image": "2.jpg"
+    },
+    {
+        "name": "Ola",
+        "color": "White",
+        "eye_color": "Blue",
+        "age": "adult",
+        "gender": "Female",
+        "image": "3.jpg"
+    },
+    {
+        "name": "Lune",
+        "color": "Grey",
+        "eye_color": "Blue",
+        "age": "adult",
+        "gender": "Male",
+        "image": "5.jpg"
+    },
+    {
+        "name": "Simba",
+        "color": "Mix",
+        "eye_color": "Green",
+        "age": "adult",
+        "gender": "Male",
+        "image": "6.jpg"
+    },
+    {
+        "name": "Daisy",
+        "color": "Grey",
+        "eye_color": "Yellow",
+        "age": "senior",
+        "gender": "Female",
+        "image": "7.jpg"
+    },
+    {
+        "name": "Charlie",
+        "color": "Mix",
+        "eye_color": "Green",
+        "age": "senior",
+        "gender": "Male",
+        "image": "8.jpg"
+    },
+    {
+        "name": "Chloe",
+        "color": "Grey",
+        "eye_color": "Yellow",
+        "age": "kitten",
+        "gender": "Female",
+        "image": "9.jpg"
+    },
+    {
+        "name": "Max",
+        "color": "Black",
+        "eye_color": "Green",
+        "age": "adult",
+        "gender": "Male",
+        "image": "10.jpg"
+    },
+    {
+        "name": "Lucy",
+        "color": "Grey",
+        "eye_color": "Yellow",
+        "age": "adult",
+        "gender": "Male",
+        "image": "11.jpg"
+    },
+    {
+        "name": "Leo",
+        "color": "Black",
+        "eye_color": "Green",
+        "age": "senior",
+        "gender": "Male",
+        "image": "12.jpg"
+    },
+    {
+        "name": "Mia",
+        "color": "Mix",
+        "eye_color": "Green",
+        "age": "adult",
+        "gender": "Female",
+        "image": "13.jpg"
+    },
+    {
+        "name": "Jasper",
+        "color": "Mix",
+        "eye_color": "Green",
+        "age": "senior",
+        "gender": "Male",
+        "image": "14.jpg"
+    },
+    {
+        "name": "Willow",
+        "color": "White",
+        "eye_color": "Yellow",
+        "age": "adult",
+        "gender": "Male",
+        "image": "15.jpg"
+    },
+    {
+        "name": "Milo",
+        "color": "Mix",
+        "eye_color": "Yellow",
+        "age": "senior",
+        "gender": "Female",
+        "image": "16.jpg"
+    },
+    {
+        "name": "Sophie",
+        "color": "Brown",
+        "eye_color": "Green",
+        "age": "adult",
+        "gender": "Male",
+        "image": "17.jpg"
+    },
+    {
+        "name": "Tiger",
+        "color": "Grey",
+        "eye_color": "Green",
+        "age": "adult",
+        "gender": "Male",
+        "image": "18.jpg"
+    },
+    {
+        "name": "Zoe",
+        "color": "Brown",
+        "eye_color": "Blue",
+        "age": "kitten",
+        "gender": "Female",
+        "image": "19.jpg"
+    },
+    {
+        "name": "Cleo",
+        "color": "Orange",
+        "eye_color": "Blue",
+        "age": "senior",
+        "gender": "Male",
+        "image": "20.jpg"
+    },
+    {
+        "name": "Felix",
+        "color": "Brown",
+        "eye_color": "Green",
+        "age": "senior",
+        "gender": "Female",
+        "image": "21.jpg"
+    },
+    {
+        "name": "Lily",
+        "color": "Mix",
+        "eye_color": "Grey",
+        "age": "kitten",
+        "gender": "Female",
+        "image": "22.jpg"
+    },
+    {
+        "name": "Oscar",
+        "color": "Grey",
+        "eye_color": "Yellow",
+        "age": "adult",
+        "gender": "Male",
+        "image": "23.jpg"
+    },
+    {
+        "name": "Zalta",
+        "color": "Orange",
+        "eye_color": "Green",
+        "age": "adult",
+        "gender": "Female",
+        "image": "25.jpg"
+    },
+    {
+        "name": "Sammy",
+        "color": "Black",
+        "eye_color": "Yellow",
+        "age": "adult",
+        "gender": "Female",
+        "image": "26.jpg"
+    },
+    {
+        "name": "Felix",
+        "color": "Orange",
+        "eye_color": "Green",
+        "age": "senior",
+        "gender": "Male",
+        "image": "27.jpg"
+    },
+    {
+        "name": "Ginger",
+        "color": "White",
+        "eye_color": "Grey",
+        "age": "senior",
+        "gender": "Female",
+        "image": "28.jpg"
+    },
+    {
+        "name": "Trumb",
+        "color": "Mix",
+        "eye_color": "Green",
+        "age": "adult",
+        "gender": "Male",
+        "image": "29.jpg"
+    },
+    {
+        "name": "Pepper",
+        "color": "Grey",
+        "eye_color": "Grey",
+        "age": "kitten",
+        "gender": "Female",
+        "image": "30.jpg"
+    },
+    {
+        "name": "Gizmo",
+        "color": "White",
+        "eye_color": "Yellow",
+        "age": "senior",
+        "gender": "Male",
+        "image": "31.jpg"
+    },
+    {
+        "name": "Peanut",
+        "color": "Mix",
+        "eye_color": "Yellow",
+        "age": "senior",
+        "gender": "Female",
+        "image": "32.jpg"
+    },
+    {
+        "name": "Obama",
+        "color": "White",
+        "eye_color": "Blue",
+        "age": "adult",
+        "gender": "Male",
+        "image": "33.jpg"
+    },
+    {
+        "name": "Shadow",
+        "color": "Orange",
+        "eye_color": "Yellow",
+        "age": "kitten",
+        "gender": "Male",
+        "image": "34.jpg"
+    },
+    {
+        "name": "Oliver",
+        "color": "White",
+        "eye_color": "Blue",
+        "age": "adult",
+        "gender": "Male",
+        "image": "35.jpg"
+    }
+]
